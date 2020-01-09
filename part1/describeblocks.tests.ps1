@@ -21,7 +21,7 @@ describe -Tag 'Linux' 'Stop-MailDaemon' {
 }
 
 describe -Tag 'Linux' 'Stop-MailDaemon' {
-    BeforAll {
+    BeforeAll {
         ## Code in here
     }
     BeforeEach {
