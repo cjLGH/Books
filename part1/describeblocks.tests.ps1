@@ -8,3 +8,14 @@ describe -Tag 'Linux' 'Stop-MailDaemon' {
         ## Context-specific code in here
     }
 }
+
+Describe -Tag 'Linux' 'Stop-MailDaemon' {
+    it 'the script runs' {
+        ## Code to compare the state to test with the real state
+    }
+    context 'When the server is down' {
+        it 'throws an exception' {
+            ## Code to compare the state to test with the real state
+        }
+    }
+}
