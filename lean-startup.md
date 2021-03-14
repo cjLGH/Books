@@ -1,6 +1,8 @@
 # The Learn Startup
 
-## Chapter 1
+## Part One VISION
+
+### Chapter 1
 
 > a good day is one in which they did their job well all day.  
 > Learning, by contrast, is frustratingly intangible.
@@ -23,7 +25,7 @@ Much time spent tuning the enging by making improvements.
 > set up in such a way that even tiny errors in assumptions can lead to catastrophic outcomes.
 > 
 
-### Build-Measure-Lean feedback loop
+#### Build-Measure-Lean feedback loop
 
 Constant adjustments like a steering wheel.
 
@@ -59,7 +61,7 @@ Strategy may have to change, called a *piot*, but hardly changing the overarchin
   /________________________\
 ```
 
-### Questions
+#### Questions
 
 > engine is running, acquiring new customers and serving existing ones; we are tuning, trying to improve our product, marketing, and operations; and we are steering, deciding if and when to pivot
 > 
@@ -68,6 +70,6 @@ Strategy may have to change, called a *piot*, but hardly changing the overarchin
 * What are we tuning and trying to improve?
 * How often have we pivoted?
 
-### End of Chapter
+#### End of Chapter
 
 > a failure to deliver results is due to either a failure to plan adequately or a failure to execute properly
