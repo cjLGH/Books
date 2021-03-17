@@ -1,5 +1,29 @@
 # The Learn Startup
 
+## Introduction
+
+### Lean Startup Method
+
+1. Entrepreneurs are everywhere.
+
+> a human institution designed to create new products and services under conditions of extreme uncertainty
+
+2. Entrepreneurship is management.
+
+> new kind of management specifically geared to its context of extreme uncertainty
+
+3. Validated learning.
+
+> run frequent experiments to test each element of a vision
+
+4. Build-Measure-Learn
+
+> fundamental activity of a startup is to turn ideas into products, measure how customers respond, and then learn whether to pivot or persevere
+
+5. Innovation accounting.
+
+> how to measure progress, how to set up milestones, and how to prioritize work
+
 ## Part One VISION
 
 ### Chapter 1
