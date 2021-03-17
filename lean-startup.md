@@ -64,7 +64,7 @@ Having a destination in mind, don't give up because there's a detour or you made
 
 Changes in the *product* through the process of optimization, called *tuning the engine*.
 
-Strategy may have to change, called a *piot*, but hardly changing the overarching vision.
+Strategy may have to change, called a *pivot*, but hardly changing the overarching vision.
 
 > Every setback is an opportunity for learning how to get where they want to go
 > 
